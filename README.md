@@ -19,3 +19,8 @@ Our company intends to rent your 2222 meter warehouse located on Akin-Sateru far
 - SQL
 - Power BI
 - MS Power point
+
+--- SQL
+SELECT A,B,C
+WHERE A> 15
+---
