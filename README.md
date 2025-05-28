@@ -24,3 +24,5 @@ Our company intends to rent your 2222 meter warehouse located on Akin-Sateru far
 SELECT A,B,C
 WHERE A> 15
 ---
+
+
